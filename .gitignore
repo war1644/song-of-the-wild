@@ -12,3 +12,11 @@ ProjectSettings/ProjectVersion.txt
 *.log
 *.db
 Library
+ProjectSettings/ProjectVersion.txt
+Assets/Script/x.meta
+Assets/Scene/x.meta
+Assets/Prefab/x.meta
+Assets/Material/x.meta
+Assets/Map/x.meta
+Assets/Animation/x.meta
+ProjectSettings/ProjectVersion.txt
